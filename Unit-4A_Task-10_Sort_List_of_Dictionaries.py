@@ -1,7 +1,7 @@
 students = [
     {"name": "Koti", "marks": 85},
-    {"name": "Anu", "marks": 95},
-    {"name": "Ravi", "marks": 75}
+    {"name": "Chowdary", "marks": 95},
+    {"name": "Mkr", "marks": 75}
 ]
 
 ascending = sorted(students, key=lambda x: x["marks"])
